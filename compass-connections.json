@@ -1,0 +1,18 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "21004055-19ab-4b0f-b6f9-5f7e782776cd",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://m001-student@cluster0-shard-00-00-jxeqq.mongodb.net/?authMechanism=DEFAULT&replicaSet=Cluster0-shard-0"
+      },
+      "favorite": {
+        "name": "predeterminado",
+        "color": "color1"
+      }
+    }
+  ]
+}
